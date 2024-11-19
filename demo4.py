@@ -187,7 +187,7 @@ if __name__ == "__main__":
     ]
 
 
-    # 示例2：自定义样式
+    # 示例：自定义样式
     create_styled_text_image(
         background_path="people.jpg",
         title=title,
